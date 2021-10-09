@@ -9,7 +9,7 @@ body {
 .container-flex {
   border-radius: 10px 0 0 10px;
   height: 400px;
-  width: 80%;
+  width: 100%;
   display: flex;
   flex-wrap: nowrap;
   background-color: hsl(244, 38%, 16%);
