@@ -24,7 +24,7 @@ body {
   height: 400px;
   width: 484px;
   margin-left: 00px;
-  opacity: 70%;
+  opacity: 60%;
 }
 
 .container-text {
@@ -47,7 +47,7 @@ body {
 
 .img-hero {
   border-radius: 0 8px 8px 0;
-  opacity: 50%;
+  opacity: 100%;
 }
 
 .attribution {
